@@ -1,4 +1,10 @@
-/* source: https://www.solodev.com/blog/web-design/add-a-scroll-to-top-button-to-your-website.stml */
+/* source: 
+
+scroll: https://www.solodev.com/blog/web-design/add-a-scroll-to-top-button-to-your-website.stml 
+
+typewriter-effect: https://codepen.io/SitePoint/pen/YzxKGpa
+
+*/
 
 .scroll-top {
     width: 75px;
@@ -12,3 +18,4 @@
     display: inline-block;
     color: #FFFFFF;
 }
+
